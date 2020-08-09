@@ -1,4 +1,4 @@
-module github.com/jfrog-solutiontest/test-tagtest
+module github.com/jfrog-solutiontest/stage-tagtest
 
 go 1.13
 
